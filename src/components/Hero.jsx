@@ -11,9 +11,9 @@ const Hero = () => {
       >
         <img className="relative mob:w-20 w-40 p-3" src={logo} alt="" />
 
-        <p className="relative text-4xl p-5 font-caveat font-semibold text-white mob:text-lg">
-          Your journey begins here... ✈️ <br />
-          Trust us to take you around the world... 🌍 <br />
+        <p className="relative text-4xl p-5 text-white mob:text-lg">
+          Your journey begins here...  <br />
+          Trust us to take you around the world...  <br />
           Call Us
         </p>
       </div>

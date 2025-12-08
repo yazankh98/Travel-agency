@@ -5,9 +5,9 @@ const ContactUs = () => {
   return (
     <section className="bg-primary text-white py-12 px-6">
       <div className="max-w-5xl mx-auto text-center mb-8">
-        <h2 className="text-3xl font-bold font-caveat">Contact Us</h2>
+        <h2 className="text-3xl font-bold ">Contact Us</h2>
         <p className="text-white/80 mt-2">
-          We are here to help you plan your perfect trip ✈️
+          We are here to help you plan your perfect trip 
         </p>
       </div>
 
